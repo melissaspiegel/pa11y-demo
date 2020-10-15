@@ -1,0 +1,9 @@
+AxeReports.processResults(results, fileType, fileName, createNewReport)
+
+object results = aXe results object
+
+string fileType = file extension csv
+
+string fileName = results
+
+boolean createNewReport = true
